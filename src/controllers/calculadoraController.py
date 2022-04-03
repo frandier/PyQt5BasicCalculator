@@ -1,6 +1,6 @@
 from functools import partial
 
-ERROR_MSG = "ERROR"
+ERROR_MSG = "SYNTAX ERROR"
 
 class CalculadoraController:
     def __init__(self, model, view):

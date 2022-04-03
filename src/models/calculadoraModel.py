@@ -1,4 +1,4 @@
-ERROR_MSG = "ERROR"
+ERROR_MSG = "SYNTAX ERROR"
 
 class CalculadoraModel:
     def __init__(self):
